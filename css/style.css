@@ -107,6 +107,7 @@
   transition: 0.5s;
 
   clip-path: polygon(30% 0, 100% 0, 100% 100%, 0% 100%);
+  font-family: "Black Han Sans", sans-serif;
 }
 
 .header .cover_lnk.on {
@@ -177,15 +178,19 @@
 }
 
 .main_visual h2 {
-  font-size: 5.6rem;
+  font-size: 7.2rem;
   font-weight: 700;
   margin-bottom: 4.8rem;
+  line-height: 116px;
+  font-family: "Oswald", sans-serif;
+
 }
 
 .main_visual p {
-  font-size: 16px;
+  font-size: 1.6rem;
   font-weight: 500;
-  text-shadow: 0px 5px 10px rgb(226, 9, 9);
+  text-shadow: 0px 5px 10px rgb(219, 171, 171);
+  font-family: "Black Han Sans", sans-serif;
 }
 
 .main_visual .me {
@@ -253,6 +258,7 @@
 
 .portfolio h2 {
   margin-bottom: 32px;
+  
 }
 
 .portfolio h2 strong {
@@ -261,12 +267,17 @@
   font-size: 40px;
   font-weight: 700;
   text-shadow: 5px 5px rgb(229, 188, 188);
+  
 }
+
 
 .portfolio .pt_table {
   margin-top: 24px;
   margin-bottom: 24px;
+  
 }
+
+
 
 .portfolio .pt_table th {
   text-align: left;
@@ -284,6 +295,7 @@
   vertical-align: top;
   border-radius: 50%;
   border: 2px solid #df9797;
+  
 }
 
 .portfolio .lnk_btn {
