@@ -1,19 +1,19 @@
 :root {
-    --body-color: #212023;
+  --body-color: #212023;
 }
 
 html {
-    font-size: 62.5%;
+  font-size: 62.5%;
 }
 
 body {
-    font-size: 1.6rem;
-    color: var(--body-color);
-    background: #f1f1f1 url(../images/bg.jpg)no-repeat center center/cover;
+  font-size: 1.6rem;
+  color: var(--body-color);
+  background: url(../images/bg.jpg) no-repeat center center/cover;
 }
 
 .inner {
-    max-width: 141rem;
-    width: 100%;
-    margin: 0 auto;
+  max-width: 141rem;
+  width: 100%;
+  margin: 0 auto;
 }

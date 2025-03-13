@@ -1,67 +1,67 @@
 * {
-    font-size: inherit;
-    font-weight: inherit;
+  font-size: inherit;
+  font-weight: inherit;
 
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 *::before,
 *::after {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 ul {
-    list-style: none;
+  list-style: none;
 }
 
 ol {
-    list-style: none;
+  list-style: none;
 }
 
 a {
-    color: inherit;
-    text-decoration: none;
+  color: inherit;
+  text-decoration: none;
 }
 
 em {
-    font-style: normal;
+  font-style: normal;
 }
 
 i {
-    font-style: normal;
+  font-style: normal;
 }
 
 address {
-    font-style: normal;
+  font-style: normal;
 }
 
 body {
-    line-height: 1;
+  line-height: 1;
 }
 
 img {
-    max-width: 100%;
-    vertical-align: top;
+  max-width: 100%;
+  vertical-align: top;
 }
 
 button {
-    background: transparent;
-    border: none;
-    border: 0;
-    cursor: pointer;
+  background: transparent;
+  border: none;
+  border: 0;
+  cursor: pointer;
 
-    color: inherit;
+  color: inherit;
 }
 
 p {
-    line-height: 1.5;
-    word-break: keep-all;
+  line-height: 1.5;
+  word-break: keep-all;
 }
 
 table {
-    border-collapse: collapse;
-    border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
