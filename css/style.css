@@ -347,11 +347,13 @@
 
   border-radius: 32px;
   border: 2px solid #ddd;
-  box-shadow: 0 0 24px rgba(214, 139, 139, 0.25);
+  box-shadow: 3px 3px 3px 3px rgb(133, 121, 121);
+  
 }
 
 .portfolio .mockup .mockup_img_p img {
   transition: 4s;
+  
 }
 
 .portfolio .mockup .mockup_img_p:hover img {
@@ -397,7 +399,9 @@
 .tranning ul li {
   overflow: hidden;
   border-radius: 1rem;
-  background: #dbbfbf;
+  background:rgba(236, 179, 179, 0.637);
+  border: 2px solid #f1c6c6;
+  box-shadow: 3px 3px 3px 3px rgb(214, 148, 148);
 }
 
 .tranning ul li a .img_box {
@@ -494,6 +498,7 @@
   color: #f47171;
   margin-bottom: 16px;
   text-shadow: 0px 0px 10px rgb(226, 108, 108);
+   font-family: "Oswald", sans-serif;
 }
 
 .profile h3 + hr {
