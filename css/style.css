@@ -246,8 +246,8 @@
   position: absolute;
   z-index: 999;
   bottom: -30rem;
-  left: 20rem;
-  top:8rem;
+  right: 70rem;
+  top:16rem;
   width: 50rem;
   height: 50rem;
   /* background: url(../images/poflows.jpg); */
